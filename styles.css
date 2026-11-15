@@ -1773,11 +1773,15 @@ ul {
   }
 
   .wordmark {
-    font-size: 24px;
+    font-size: 26px;
   }
 
   .menu-toggle {
-    font-size: 13px;
+    font-size: 14px;
+  }
+
+  .hero-bg-word {
+    font-size: clamp(88px, 19vw, 118px);
   }
 
   .hero,
