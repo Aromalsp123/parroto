@@ -1772,6 +1772,14 @@ ul {
     display: none;
   }
 
+  .wordmark {
+    font-size: 24px;
+  }
+
+  .menu-toggle {
+    font-size: 13px;
+  }
+
   .hero,
   .problem-section,
   .approach-section,
